@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-Este es un proyecto para organizar un **Amigo Secreto** de forma digital. Los usuarios pueden agregar nombres a una lista, y luego realizar un sorteo aleatorio para asignar a cada persona su "amigo secreto". Está construido con HTML, CSS y JavaScript.
+Este proyecto es un challenge propuesto por Alura para el programa ONE llamado (Amigo Secreto), consiste en una pagína web para sortear un **Amigo Secreto** de forma digital. Los usuarios pueden agregar nombres a una lista, y luego realizar un sorteo aleatorio para asignar a cada persona su "amigo secreto". Está construido con HTML, CSS y JavaScript.
 
 ## Descripción
 
